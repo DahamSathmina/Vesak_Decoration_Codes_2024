@@ -6,19 +6,19 @@ This Arduino project is designed to control decorative lighting patterns using a
 **Features**
 
 Predefined lighting patterns for 230V bulbs.    
-Uses a 4-channel relay module to safely control high-voltage bulbs.*(The code can be changed and the number of relay modules can be changed as required )*.    
+Uses a 4-channel relay module to safely control high-voltage bulbs. *(The code can be changed and the number of relay modules can be changed as required )*.        
 Easy to customize for different sequences or durations.        
 Designed for safe operation with proper wiring and components.    
 
 **Requirements**
 
 Arduino board (e.g., Uno, Mega, Nano).  
-4-channel relay module. *(The code can be changed and the number of relay modules can be changed as required )*.     
-5W 230V AC bulbs *(minimum 4 / You can take as many bulbs as you like )*.      
-TT wires for high-voltage connections.  
-Jumper wires for connecting the Arduino to the relay module.  
-Proper power supply for the Arduino.  
-Safe casing or insulation for high-voltage components.  
+4-channel relay module.     *(The code can be changed and the number of relay modules can be changed as required )*.             
+5W 230V AC bulbs     *(minimum 4 / You can take as many bulbs as you like )*.              
+TT wires for high-voltage connections.      
+Jumper wires for connecting the Arduino to the relay module.      
+Proper power supply for the Arduino.      
+Safe casing or insulation for high-voltage components.      
 
 **Installation**
 
@@ -65,4 +65,4 @@ Contributions are welcome! If you have ideas to improve the project, feel free t
 
 # License
 
-This project is licensed under the MIT License. See the ![LICENSE]( ) file for details.
+This project is licensed under the MIT License. See the ![LICENSE](LICENSE) file for details.
