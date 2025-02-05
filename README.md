@@ -29,8 +29,7 @@ Connect your Arduino board to your computer.
 Upload the code to the Arduino board.      
 
 # Wiring Instructions
-![image Alt](https://github.com/DahamSathmina/Vesak_Decoration_Codes_2024/blob/a64127e0b1f585c327827662c2dae374a5993b43/5w%20Bulb%20Wirering%20Diagram.jpg)
-<img src="https://github.com/DahamSathmina/Vesak_Decoration_Codes_2024/blob/a64127e0b1f585c327827662c2dae374a5993b43/5w%20Bulb%20Wirering%20Diagram.jpg" alt="image Alt" width="500" height="300">
+<img src="https://github.com/DahamSathmina/Vesak_Decoration_Codes_2024/blob/a64127e0b1f585c327827662c2dae374a5993b43/5w%20Bulb%20Wirering%20Diagram.jpg" alt="image Alt" width="600" height="400">
 
 **Hardware Setup**
 
