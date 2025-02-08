@@ -11,7 +11,7 @@ void setup() {
   }
 }
 /*  Created By        Daham Sathmina
-    Decoration Time        2024 Vesak Sarasili
+    Decoration Time   2024 Vesak Sarasili
 */
 void loop() {
   P1(1);
